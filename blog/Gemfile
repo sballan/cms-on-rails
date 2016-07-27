@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# Import our Wellspring gem
-gem 'wellspring', path: '../wellspring'
+# import our Wellspring gem
+gem 'wellspring', path: '../wellspring/'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
